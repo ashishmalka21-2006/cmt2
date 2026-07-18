@@ -128,8 +128,4 @@ http://localhost:5000
 * Complaint Analytics Dashboard
 * AI-based Complaint Categorization
 
-## Author
-
-**Velpoori Vishnuvardhan Rao**
-
-GitHub: https://github.com/24eg105d59-dev
+ 
